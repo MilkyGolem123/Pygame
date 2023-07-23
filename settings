@@ -1,0 +1,9 @@
+# ustawienia:
+WIDTH = 480
+HEIGHT = 320
+FPS = 60
+TILESIZE = 16
+
+weapon_data = {
+    'sword': {'cooldown': 100, 'damage': 15, 'graphic': 'grafika/Bronie/sword/full.png'},
+    'spear': {'cooldown': 200, 'damage': 25, 'graphic': 'grafika/Bronie/spear/full.png'}}
